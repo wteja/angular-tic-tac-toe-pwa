@@ -1,0 +1,1 @@
+export type SlotValueType = 'X' | 'O' | null;
